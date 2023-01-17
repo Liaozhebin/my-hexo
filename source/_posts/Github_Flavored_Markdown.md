@@ -567,20 +567,6 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 
 
 ## Hexo博客系统扩展的语法：
-### 字体居中
-字体居中使用Html语言包裹，有三种格式
-**示例：**
-
-```xml
-{% centerquote %}这是居中字体{% endcenterquote %}
- <blockquote class="blockquote-center">这是居中字体</blockquote>
-{% cq %}这是居中字体{% endcq %}
-```
-**效果预览：**
-{% centerquote %}这是居中字体{% endcenterquote %}
-
- <blockquote class="blockquote-center">这是居中字体</blockquote>
-{% cq %}这是居中字体{% endcq %}
 
 ### Note标签
 需要在 `Next` 主题配置中搜索 `Note tag` 开启，共有5种`style`，预览可以在[这里](https://github.com/iissnan/hexo-theme-next/pull/1697)查看，`icon`用于设置是否显示图标。
