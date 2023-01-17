@@ -1,7 +1,7 @@
 ---
 title: Github Flavored Markdown
 date: 2020-04-08 
-updated: 2020-05-03 
+updated: 2020-05-04 
 urlname: Github_Flavored_Markdown
 tags:
   - Markdown
